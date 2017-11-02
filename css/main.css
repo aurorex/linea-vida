@@ -1,0 +1,73 @@
+header{
+  width: 100%;
+  position: fixed;
+  top: 0;
+  background-color: rgba(86, 3, 0, 0.5);
+
+}
+nav{
+  width: 100%;
+  background: ;
+  margin: 0 50px;
+}
+
+.titulo{
+  display: inline-block;
+  font-size:30px ;
+  font-family:sans-serif;
+  color: #fff;
+
+}
+
+ul{
+  width:700px;
+  display: inline-block;
+  margin-left: 2%;
+}
+li{
+  display: inline-block;
+  list-style: none;
+  font-family: monospace;
+  font-size:20px ;
+  margin: 0 5px;
+
+}
+a{
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fff;
+}
+section{
+  text-align: center;
+}
+
+.yo{
+  width: 100%;
+  background:#F0AEF9 ;
+  text-align: center;
+}
+
+
+h1{
+  font-family: monospace;
+  text-transform: uppercase;
+  font-size:50px ;
+}
+
+.bebe{
+  width:500px;
+  height: 700px;
+}
+.aurora{
+  width: 500px;
+  height: 500px;
+}
+.gato{
+  width: 500px;
+  height: 400px;
+}
+.beatles{
+  width:500px ;
+  height:400px ;
+
+}
